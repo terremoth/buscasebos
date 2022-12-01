@@ -12,6 +12,8 @@
 - [ ] https://sebocapricho.com.br/
 - [ ] https://www.seborsraridades.com.br/
 - [ ] https://www.seboterapia.com.br/
+- [ ] https://30porcento.com.br/
+- [ ] https://livrariacircular.com.br/
 
 ## Geral
 - [ ] Implementar threads para cada sebo
